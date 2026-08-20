@@ -7,3 +7,6 @@ chmod +x deploy.sh
 sh deploy.sh 
 git add deploy.sh 
 git commit -m "deploymet demo"
+
+
+ok
